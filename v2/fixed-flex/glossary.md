@@ -16,6 +16,8 @@
 
 **Maturity Period in Blocks**: The duration until the bond's maturity, measured in blockchain blocks, after which the bondholder can redeem their payout.
 
+**Settled Contract**: In the context of Amet Finance, a settled contract refers to a state where the bond issuer has finalized the terms of the bond issuance. Once a contract is settled, the issuer can only decrease the total number of bonds (Total Bonds) available. Furthermore, the necessary funds (or payout) required to fulfill the repayment obligations for all issued bonds are locked in the contract, ensuring that there are sufficient resources to cover the payouts at maturity. This mechanism enhances the security and trustworthiness of the bond for potential investors.
+
 \
 **Issuer**: The entity or individual responsible for creating and issuing the bond, committing to pay back the payout amount upon maturity.
 
