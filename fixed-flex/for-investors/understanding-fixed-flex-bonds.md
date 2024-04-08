@@ -1,2 +1,0 @@
-# Understanding Fixed Flex Bonds
-
