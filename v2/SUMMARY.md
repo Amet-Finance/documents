@@ -11,8 +11,9 @@
 ## Fixed Flex
 
 * [For Investors](fixed-flex/for-investors/README.md)
-  * [Getting Started](fixed-flex/for-investors/getting-started.md)
+  * [Getting Started: Investing in On-Chain Bonds on Amet Finance](fixed-flex/for-investors/getting-started-investing-in-on-chain-bonds-on-amet-finance.md)
   * [Understanding Fixed Flex Bonds](fixed-flex/for-investors/understanding-fixed-flex-bonds.md)
+  * [Referral](fixed-flex/for-investors/referral.md)
   * [FAQ](fixed-flex/for-investors/faq.md)
 * [For Issuers](fixed-flex/for-issuers/README.md)
   * [Issuing Bonds on Amet Finance](fixed-flex/for-issuers/issuing-bonds-on-amet-finance.md)
