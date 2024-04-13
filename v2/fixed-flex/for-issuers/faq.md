@@ -73,3 +73,7 @@ For additional support, issuers can refer to the detailed documentation on Amet 
 Amet Finance provides issuers with tools to monitor their bond's performance, including real-time data on purchases, redemptions, and overall engagement, accessible through the issuer's dashboard.
 
 </details>
+
+For further assistance, you can reach out via our support email, consult the comprehensive help section on our website, or join community discussions on our Discord channel.
+
+These FAQs aim to address common questions and concerns for new and existing issuers, ensuring a smooth and informed issuance experience on Amet Finance.
