@@ -2,14 +2,6 @@
 
 <details>
 
-<summary>What is Amet Finance?</summary>
-
-Amet Finance is a decentralized finance platform specializing in on-chain bonds, allowing users to issue, manage, and trade bonds in a secure and efficient blockchain environment.
-
-</details>
-
-<details>
-
 <summary>How do I issue a bond on Amet Finance?</summary>
 
 Issuing a bond on Amet Finance involves defining your bond parameters (amount, interest rate, maturity period, etc.), creating the bond on the platform, and launching it to potential investors. The process is designed to be straightforward, guiding issuers at every step.\

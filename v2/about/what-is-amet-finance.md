@@ -4,6 +4,12 @@ description: Your go-to platform for easy and secure on-chain bond trading and m
 
 # What is Amet Finance?
 
+{% hint style="info" %}
+TL;DR: Amet Finance is a decentralized finance platform specializing in on-chain bonds, allowing users to issue, manage, and trade bonds in a secure and efficient blockchain environment.
+{% endhint %}
+
+
+
 Welcome to Amet Finance, the platform that simplifies the way you trade and manage on-chain bonds. If you're looking to dive into the world of decentralized finance (DeFi) without the hassle, you're in the right place. Here, we'll break down what Amet Finance is all about, keeping things straightforward and easy to understand.
 
 **Simple and Secure Trading**\
