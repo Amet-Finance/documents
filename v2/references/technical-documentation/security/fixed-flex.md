@@ -11,3 +11,7 @@
 * [Audit](https://github.com/Amet-Finance/contracts/blob/main/contracts/fixed-flex/audits/report\_gt\_gsec.md)
 * [Twitter](https://twitter.com/gt\_gsec)
 * [Github](https://github.com/ggggtttt/portfolio)
+
+
+
+**Bug Bounty on Remedy**: [https://r.xyz/program/amet-finance](https://r.xyz/program/amet-finance)
