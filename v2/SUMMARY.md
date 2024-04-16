@@ -24,7 +24,7 @@
 
 ## Amet Finance Token(AMT)
 
-* [Overview](amet-finance-token-amt/overview.md)
+* [Overview of Amet Finance Token (AMT)](amet-finance-token-amt/overview-of-amet-finance-token-amt.md)
 
 ## References
 
