@@ -17,6 +17,7 @@
   * [FAQ](fixed-flex/for-investors/faq.md)
 * [For Issuers](fixed-flex/for-issuers/README.md)
   * [Issuing Bonds on Amet Finance](fixed-flex/for-issuers/issuing-bonds-on-amet-finance.md)
+  * [Managing Bonds on Amet Finance](fixed-flex/for-issuers/managing-bonds-on-amet-finance.md)
   * [Fee Structure](fixed-flex/for-issuers/fee-structure.md)
   * [Best Practices](fixed-flex/for-issuers/best-practices.md)
   * [FAQ](fixed-flex/for-issuers/faq.md)
