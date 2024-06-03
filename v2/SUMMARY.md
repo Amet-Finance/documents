@@ -32,6 +32,7 @@
 * [Technical Documentation](references/technical-documentation/README.md)
   * [Smart Contracts](references/technical-documentation/smart-contracts/README.md)
     * [Fixed Flex](references/technical-documentation/smart-contracts/fixed-flex.md)
+    * [Contract Addresses](references/technical-documentation/smart-contracts/contract-addresses.md)
   * [Security](references/technical-documentation/security/README.md)
     * [Fixed Flex](references/technical-documentation/security/fixed-flex.md)
   * [Libraries](references/technical-documentation/libraries.md)
