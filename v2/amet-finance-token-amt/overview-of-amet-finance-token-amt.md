@@ -18,7 +18,25 @@ AMT serves multiple purposes within the Amet Finance platform, each aimed at enh
 
 ## **Tokenomics Breakdown**
 
-#### _Total supply: 1.000.000.000.000_
+
+
+{% hint style="info" %}
+Updated: 04 Jun 2024
+
+
+
+**Total supply:** 1T(1.000.000.000.000) $AMT
+
+**Circulating supply:** 141.25B(141.250.000.000) $AMT
+
+**IBO price in USD -** $0.000012
+
+**IBO offering -** 0.96 USDC = 80.000 $AMT = 3 months
+
+**MC -** $12.000.000
+
+**FDV -** $1.695.000
+{% endhint %}
 
 1. [**Community and Ecosystem (40%)**](https://basescan.org/address/0xcED17Cd9e5AbD7EdcBDebcFd20eeA53C167E20aD)
    * **Purpose**: To foster growth, reward participation, and support various ecosystem activities.
